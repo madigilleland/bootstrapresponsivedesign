@@ -1,0 +1,52 @@
+header { background-color: rgba(2,109,120,1);
+		 }
+
+.nav-link { border-color: black;
+			color: black;
+			font-family: 'Jost', sans-serif;
+			text-transform: uppercase;
+			font-size: 18px;
+			margin-top: 50px;
+			margin-bottom: 50px;}
+
+.nav-link:hover {color: white;}
+
+h1 {font-family: 'Raleway', sans-serif;
+	font-size: 80px;
+	text-align: center;
+	padding: 40px;}
+
+h2 {font-family: 'Jost', sans-serif;
+	text-transform: uppercase;}
+
+p {font-family: 'Jost', sans-serif;
+	}
+
+#verse{font-size: 20px;
+		text-align: center;}
+
+#italic, #whocontent {font-size: 25px;
+					  text-align: center;
+					  font-style: italic;
+					margin-left: 200px;
+					margin-right: 200px;}
+
+#who {font-size: 50px;
+	  text-align: center;
+	  color: rgba(2,109,120,1)}
+
+
+.headshots {width: 400px;
+		   height: auto;}
+
+.logo {padding-top: 15px;
+	   padding-bottom: 15px;}
+
+.btn {border-color: black;
+	  color: white;
+	  background-color: rgba(2,109,120,1);
+	  margin: auto;}
+
+.btn:hover { background-color: white;
+			 border-color: rgba(2,109,120,1);
+			 color: rgba(2,109,120,1);}
